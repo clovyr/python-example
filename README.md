@@ -18,7 +18,7 @@ implemented in several popular programming languages.
 
 ## Running the examples
 
-1. Navigate to the example directory:<br/>
+1. Navigate to the example directory:  
 `cd git/github.com/clovyr/python-example/examples/todomvc`
 1. Build and run the server<br>
 `./run.sh`
@@ -26,7 +26,7 @@ implemented in several popular programming languages.
 prefixed by `8080-`
    * The URL for your instance is found in the green bar at the bottom of 
    the application space
-   * For example, if your Code environment is `https://happy-otter.wnext.app`,<br> 
+   * For example, if your Code environment is `https://happy-otter.wnext.app`,  
    the served application is at `https://8080-happy-otter.wnext.app`. 
 1. To stop the server, enter `CTRL+C` in the terminal where the program was
 invoked

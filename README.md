@@ -20,7 +20,7 @@ implemented in several popular programming languages.
 
 1. Navigate to the example directory:  
 `cd git/github.com/clovyr/python-example/examples/todomvc`
-1. Build and run the server<br>
+1. Build and run the server  
 `./run.sh`
 1. In a new browser tab, enter the url of your Clovyr Code instance
 prefixed by `8080-`
